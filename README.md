@@ -10,7 +10,7 @@ Objectives
 ---
 
 1. Database Setup
-   - Database Creation: Create a database named `p1_retail_db`.
+   - Database Creation: Create a database named `sql_project`.
    - Table Creation: Set up a `retail_sales` table to store the sales data with columns including:
      - `transaction_id`
      - `sale_date`
